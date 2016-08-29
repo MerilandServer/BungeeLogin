@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+main: es.meriland.BungeeLogin.BungeeLogin
+version: ${project.version}
+author: Meriland
